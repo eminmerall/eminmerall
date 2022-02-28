@@ -29,8 +29,20 @@
 
 ### GitHub Analytics 📊
 <div>
-  <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eminmerall&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eminmerall&theme=dark&show_icons=true" alt="Emin MERAL"></img>
+  
+<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eminmerall&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=eminmerall&theme=dark&show_icons=true" alt="Emin MERAL"></img>
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+![GitHub last commit](https://img.shields.io/github/last-commit/eminmerall/eminmerall)
+![pv](https://komarev.com/ghpvc/?username=eminmerall)
+![Repos Badge](https://badges.pufler.dev/repos/eminmerall)
+  
 </div>
 <!---
 - 👀 I’m interested in ...
