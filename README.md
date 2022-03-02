@@ -31,7 +31,7 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/eminmerall/eminmerall)
 ![pv](https://komarev.com/ghpvc/?username=eminmerall)
-![Repos Badge](https://badges.pufler.dev/repos/eminmeral)
+![Repos Badge](https://badges.pufler.dev/repos/eminmerall)
 <div  align="center">
   
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eminmerall&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
