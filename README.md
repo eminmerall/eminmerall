@@ -1,7 +1,11 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="270" />
 
-## Hi there 👋
-- 👋 Hi, I’m @eminmerall
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I+am+Emin+MERAL&center=true&size=25">
+  </a>
+</h1>
+
 - 🎓 Sakarya University - Management Information Systems - 2020
 - 💻 I'm a Business Analyst at Set Yazilim
 
