@@ -46,8 +46,11 @@
 ![Repos Badge](https://badges.pufler.dev/repos/eminmerall) -->
 <div  align="center">
   
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eminmerall&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=eminmerall&theme=radical&show_icons=true" alt="Emin MERAL"></img>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eminmerall&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical"/>
+  
+<!-- <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=eminmerall&theme=tokyonight"/> -->
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eminmerall&theme=radical&show_icons=true" alt="Emin MERAL"/>
 
 </div>
 
