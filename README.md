@@ -9,7 +9,7 @@
 - 🎓 Sakarya University - Management Information Systems 2020
 - 🎓 Anadolu University - Web Desing and Coding -
 - 💻 I'm a Business Analyst at Set Yazilim
-- ⚡ I’m currently learning T-SQL, C#, .Net Core, JavaScript
+- ⚡ I’m currently learn anythink :slightly_smiling_face:
 
 #### Contact with me:
 [<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg">](mailto:eminmerall@gmail.com)
@@ -37,15 +37,11 @@
 <br />
 
 
-
-
-
-
 ### GitHub Analytics 📊
 
-<!-- ![GitHub last commit](https://img.shields.io/github/last-commit/eminmerall/eminmerall)
+![GitHub last commit](https://img.shields.io/github/last-commit/eminmerall/eminmerall)
+![Repos Badge](https://badges.pufler.dev/repos/eminmerall)
 ![pv](https://komarev.com/ghpvc/?username=eminmerall)
-![Repos Badge](https://badges.pufler.dev/repos/eminmerall) -->
 <div  align="center">
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eminmerall&show_icons=true&locale=en&layout=compact&langs_count=8&" />
@@ -53,13 +49,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eminmerall&show_icons=true" alt="Emin MERAL"/>
           
  </div>    
- 
- <div  align="center">    
-          
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=eminmerall&" />
-          
+<!-- 
+<div  align="center">            
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eminmerall&" />         
 </div>
-
+-->
 
 <br/>
 
