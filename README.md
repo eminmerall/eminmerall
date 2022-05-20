@@ -1,23 +1,15 @@
- <table style="Border:none">
-    <tr>
-      <td>
-        <h1 align="center">
+<h1 align="center">
           <a href="https://git.io/typing-svg">
           <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I+am+Emin+MERAL&center=true&size=25">
            </a>
         </h1>
-      </td>
-      <td>
-        <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="370" />
-      </td>
-    </tr>
-  </table>
+        
+### Hi there, I am Emin <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
-
-
-
-- 🎓 Sakarya University - Management Information Systems - 2020
+- 🎓 Sakarya University - Management Information Systems 2020
+- 🎓 Anadolu University - Web Desing and Coding -
 - 💻 I'm a Business Analyst at Set Yazilim
+- ⚡ I’m currently learning T-SQL, C#, .Net Core, JavaScript
 
 #### Contact with me:
 [<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg">](mailto:eminmerall@gmail.com)
