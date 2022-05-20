@@ -1,35 +1,32 @@
-
-        
-<div id="header" align="center">
-          <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-          <h4 align="center">
-                    <a href="https://git.io/typing-svg">
-                              <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I+am+Emin+Meral&center=true&size=20">
-                    </a>
-        </h4>
-          <div id="badges">
-                    <a href="https://www.linkedin.com/in/eminmerall/">
-                              <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-                    </a>
-                    <a href="https://twitter.com/eminmerall">
-                              <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-                    </a>
-                    <a href="mailto:eminmerall@gmail.com">
-                              <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
-                    </a>
+  <div id="header" align="center">
+        <h5 align="center">
+        <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I+am+Emin+Meral&center=true&size=25">
+        </a>
+        </h5>   
+        <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+        <div id="badges">
+                <a href="https://www.linkedin.com/in/eminmerall/">
+                        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+                </a>
+                <a href="https://twitter.com/eminmerall">
+                        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+                </a>
+                <a href="mailto:eminmerall@gmail.com">
+                        <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
+                </a>
           </div>          
 </div>
 
-##
+## 👨‍💻 About Me :
 
-### 👨‍💻 About Me :
 - 🎓 I Graduted from Sakarya University - Management Information Systems in 2020
 - 💻 I'm a Business Analyst at Set Yazilim
 - 🔭 I'm also learning programming languages
 
-#
+<br />
 
-### Languages and Tools:
+## :hammer_and_wrench: Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -47,13 +44,13 @@
 
 
 
-## GitHub Analytics 📊
+## 📊 GitHub Analytics 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/eminmerall/eminmerall)
 ![Repos Badge](https://badges.pufler.dev/repos/eminmerall)
 ![pv](https://komarev.com/ghpvc/?username=eminmerall)
 
-
+<br />
 
 
 <div  align="center">
