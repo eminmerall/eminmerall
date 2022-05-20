@@ -18,7 +18,7 @@
 
 <br/>
 
----
+--
 
 #### Languages and Tools:
 
@@ -37,11 +37,16 @@
 <br />
 
 
+
 ### GitHub Analytics 📊
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/eminmerall/eminmerall)
 ![Repos Badge](https://badges.pufler.dev/repos/eminmerall)
 ![pv](https://komarev.com/ghpvc/?username=eminmerall)
+
+
+
+
 <div  align="center">
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eminmerall&show_icons=true&locale=en&layout=compact&langs_count=8&" />
@@ -55,8 +60,18 @@
 </div>
 -->
 
-<br/>
+#### Top Repositories
 
+<div  align="center">
+          
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eminmerall&repo=UniDrive&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eminmerall&repo=Directory_C.Sharp&theme=buefy" />
+</a>
+
+</div>
 <!---
 - 👀 I’m interested in ...
 eminmerall/eminmerall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
