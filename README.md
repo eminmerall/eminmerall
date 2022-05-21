@@ -46,7 +46,6 @@
 
 ## 📊 GitHub Analytics 
 
-![GitHub last commit](https://img.shields.io/github/last-commit/eminmerall/eminmerall)
 ![Repos Badge](https://badges.pufler.dev/repos/eminmerall)
 ![pv](https://komarev.com/ghpvc/?username=eminmerall)
 
